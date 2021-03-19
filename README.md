@@ -1,6 +1,6 @@
 # SourceRepo
 
-This is a line from the source
+This is a line from the source : non conflicting change
 
 
 another line
