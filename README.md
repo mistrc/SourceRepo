@@ -2,6 +2,8 @@
 
 This is a line from the source : non conflicting change
 
+A change in the main branch
+
 
 another line
 
